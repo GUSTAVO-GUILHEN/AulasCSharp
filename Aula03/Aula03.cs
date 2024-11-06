@@ -12,7 +12,7 @@ class Aula03{
 
         var aux=nome;
 
-        Console.WriteLine(aux);
+        Console.WriteLine("Valor da variável: " + aux + "...");
 
 
     }   
